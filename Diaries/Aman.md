@@ -6,4 +6,4 @@
     - Read about the BeautifulSoup python library for web scraping
     - Started searching for efficient shortest path algorithms
     - Learnt about the radix heap optimization of djiktra's algorithm
-    - Thinking about to calculate shortes paths in run time or pre process
+    - Discussing about to calculate shortes paths in run time or pre process
