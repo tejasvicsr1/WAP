@@ -18,6 +18,6 @@
 
 &nbsp;
 
-### October 2, 2020
+### October 3, 2020
 
 1. Practiced Bootstrap by making a sample webpage
