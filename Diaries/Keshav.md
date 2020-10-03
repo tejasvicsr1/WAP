@@ -4,8 +4,6 @@
 
 ### October 1, 2020
 
-&nbsp;
-
 1. Cloned the GitHub repository and added my diary to it.
 2. Discussed among team members about the possible resources which can be used for web scraping
 3. Found few links which can help us with web scraping
@@ -15,7 +13,11 @@
 
 ### October 2, 2020
 
-&nbsp;
-
 1. Decided upon the fontend frameworks to be used
 2. Started learning the bootstrap and CSS
+
+&nbsp;
+
+### October 2, 2020
+
+1. Practiced Bootstrap by making a sample webpage
