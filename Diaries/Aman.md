@@ -11,3 +11,7 @@
 ## October 2, 2020
     - Started learning BeautifulSoup and NodeJs
     - Discussed about the Frontend requirements
+
+## October 3, 2020
+    - Practiced scraping by using BeautifulSoup
+    - Praticed by making a server on NodeJs
