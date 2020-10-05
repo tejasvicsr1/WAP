@@ -15,8 +15,6 @@
     2. <https://towardsdatascience.com/step-by-step-tutorial-web-scraping-wikipedia-with-beautifulsoup-48d7f2dfa52d> is an additional resource on Beautiful Soup. 
 4. Discussions about algorithm led to a question on domain restriction.
 
-&nbsp;
-
 #### TOTAL TIME = 2 hours
 &nbsp;
 
@@ -32,7 +30,5 @@
 - [ ] Send Mail to the Prof.
 - [ ] Check licenses to see if we can use the software.
 - [ ] Check whether Wikidump is enough to finish the scraping. 
-
-&nbsp;
 
 #### TOTAL TIME = 2 hours
