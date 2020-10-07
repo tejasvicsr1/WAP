@@ -21,3 +21,8 @@
     - Finding Data Structures to store the data
     - Searched for the most efficient graph storing database
     - Scraped google hompeage for links and theire attributes
+
+##October 8,2020
+    - Found Cassandra NoSQL database and started reading on it
+    - Thinking on to use Sql or NoSql databases
+    - Analysis of various operations on them
