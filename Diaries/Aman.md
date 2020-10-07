@@ -15,3 +15,9 @@
 ## October 3, 2020
     - Practiced scraping by using BeautifulSoup
     - Praticed by making a server on NodeJs
+
+##October 7, 2020
+    - Started learning ExpressJs and invoked it with NodeJs
+    - Finding Data Structures to store the data
+    - Searched for the most efficient graph storing database
+    - Scraped google hompeage for links and theire attributes
