@@ -1,3 +1,5 @@
+
+
 ## Diary for the project
 &nbsp;
 
@@ -22,7 +24,12 @@
     - Searched for the most efficient graph storing database
     - Scraped google hompeage for links and theire attributes
 
-##October 8,2020
+##October 8, 2020
     - Found Cassandra NoSQL database and started reading on it
     - Thinking on to use Sql or NoSql databases
     - Analysis of various operations on them
+
+##October 10, 2020
+    -Searched for graph databases to store data as a graph
+    -Found Neo4j graph database and started reading
+    -Will now learn how to use the database and the required languages and frameworks for them
