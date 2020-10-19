@@ -44,7 +44,7 @@
 4. Started looking at frameworks.
 5. Assigned the creation of the figma prototype.
 
-### TOTAL TIME = 2 hours
+#### TOTAL TIME = 2 hours
 &nbsp;
 
 ### October 19, 2020
@@ -57,4 +57,4 @@
 4. Used the link <https://www.youtube.com/watch?v=F5mRW0jo-U4> to learn Django.
 5. Did 20% of the video and tried playing with the functionalities.
 
-### TOTAL TIME = 4 hours
+#### TOTAL TIME = 4 hours
