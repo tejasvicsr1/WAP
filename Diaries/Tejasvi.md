@@ -58,3 +58,13 @@
 5. Did 20% of the video and tried playing with the functionalities.
 
 #### TOTAL TIME = 4 hours
+&nbsp;
+
+### October 20, 2020
+
+&nbsp;
+
+1. Continued learning Django.
+
+#### TOTAL TIME = 3 hours
+&nbsp;
