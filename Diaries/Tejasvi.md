@@ -4,8 +4,6 @@
 
 ### October 1, 2020
 
-&nbsp;
-
 1. I started off by initialising the GitHub repository. I also added some basic references like the proposal to it.
 2. Found a few links for downloading the __entire__ databse. Links are:
     1. <https://dumps.wikimedia.org/> is a dump of all the articles in the database. 
@@ -19,8 +17,6 @@
 &nbsp;
 
 ### October 5, 2020
-
-&nbsp;
 
 1. Searched the web for existing scripts to find an already existing dataset.
 2. Found something called WikiLinkGraphs.
@@ -36,8 +32,6 @@
 
 ### October 18, 2020
 
-&nbsp;
-
 1. Got the new memebers upto speed with the project.
 2. Re-planned goals to take into account the multiple loss of time due to other days.
 3. Redistibuted work to ensure maximum efficiency.
@@ -48,8 +42,6 @@
 &nbsp;
 
 ### October 19, 2020
-
-&nbsp;
 
 1. Decided on the frameworks and technologies to be used.
 2. We are planning on using Django to deal with relational database to avoid dealing with JS.
@@ -62,16 +54,12 @@
 
 ### October 20, 2020
 
-&nbsp;
-
 1. Continued learning Django.
 
 #### TOTAL TIME = 3 hours
 &nbsp;
 
 ### October 21, 2020
-
-&nbsp;
 
 1. Continued learning Django.
 2. Will add the base code soon.
