@@ -68,3 +68,13 @@
 
 #### TOTAL TIME = 3 hours
 &nbsp;
+
+### October 21, 2020
+
+&nbsp;
+
+1. Continued learning Django.
+2. Will add the base code soon.
+
+#### TOTAL TIME = 3 hours
+&nbsp;
