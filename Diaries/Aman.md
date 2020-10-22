@@ -33,3 +33,12 @@
     -Searched for graph databases to store data as a graph
     -Found Neo4j graph database and started reading
     -Will now learn how to use the database and the required languages and frameworks for them
+
+##October 23, 2020
+    -Started the CLI version with Siddhant and started scraping for links
+    -Face the problems of recognizing important links
+    -To solve the problem removed special characters from the wiki link
+    -Then added more filetrs to the wikipedia link
+    -Read the structure of the Wikipedia page to understand the links required
+    -Made a very basic UI and score  system
+    -Discussed wats to optimize the game and ways to store the scraped links
