@@ -21,3 +21,17 @@
 ### October 3, 2020
 
 1. Practiced Bootstrap by making a sample webpage
+
+### October 4, 2020
+
+1. Furhter practiced bootstrap implementations
+
+### October 18, 2020
+
+1. Learnt how to use the basics of Figma
+2. Made the mock up for the landing page of the website on Figma
+
+### October 22, 2020
+
+1. Improved the landing page for the website
+2. Made other pages such as create account and sign up for the website
