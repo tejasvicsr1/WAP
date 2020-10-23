@@ -97,6 +97,8 @@ while 1:
 
     print()
     chosen = int(input("Choose a link (Enter number): "))
+    if chosen == -1: 
+        break
     new_link = links[chosen] 
 
 print("Congrats! you reached your destination in " + str(score) + " Clicks")
