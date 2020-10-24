@@ -66,3 +66,12 @@
 
 #### TOTAL TIME = 3 hours
 &nbsp;
+
+### October 24, 2020
+
+1. Prepared for the presentation.
+2. Had a team meet to fix issues that were arising.
+3. Presented to sir.
+4. Had a meet afterwards to discuss new plans.
+
+#### TOTAL TIME = 5 hours
