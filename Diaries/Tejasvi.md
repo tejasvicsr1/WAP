@@ -23,10 +23,6 @@
 3. Added their submodule but there seems to be an error.
 4. Author asked to mail him, will do so and ask how to fix/use it for our application. 
 
-- [ ] Send Mail to the Prof.
-- [ ] Check licenses to see if we can use the software.
-- [ ] Check whether Wikidump is enough to finish the scraping. 
-
 #### TOTAL TIME = 2 hours
 &nbsp;
 
@@ -75,3 +71,10 @@
 4. Had a meet afterwards to discuss new plans.
 
 #### TOTAL TIME = 5 hours
+&nbsp;
+
+### October 29, 2020
+
+1. Finished Django Course.
+
+### TOTAL TIME = 4 hours
