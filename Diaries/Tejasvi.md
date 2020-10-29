@@ -77,4 +77,4 @@
 
 1. Finished Django Course.
 
-### TOTAL TIME = 4 hours
+#### TOTAL TIME = 4 hours
