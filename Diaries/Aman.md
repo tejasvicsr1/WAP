@@ -42,3 +42,6 @@
     -Read the structure of the Wikipedia page to understand the links required
     -Made a very basic UI and score  system
     -Discussed wats to optimize the game and ways to store the scraped links
+
+## November 13,2020
+    - Read the doucmentation and worked with the python library Wiki dump reader for the backend of the game
