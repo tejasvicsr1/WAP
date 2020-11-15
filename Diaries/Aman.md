@@ -18,18 +18,34 @@
     - Practiced scraping by using BeautifulSoup
     - Praticed by making a server on NodeJs
 
-##October 7, 2020
+## October 7, 2020
     - Started learning ExpressJs and invoked it with NodeJs
     - Finding Data Structures to store the data
     - Searched for the most efficient graph storing database
     - Scraped google hompeage for links and theire attributes
 
-##October 8, 2020
+## October 8, 2020
     - Found Cassandra NoSQL database and started reading on it
     - Thinking on to use Sql or NoSql databases
     - Analysis of various operations on them
 
-##October 10, 2020
+## October 10, 2020
     -Searched for graph databases to store data as a graph
     -Found Neo4j graph database and started reading
     -Will now learn how to use the database and the required languages and frameworks for them
+
+## October 23, 2020
+    -Started the CLI version with Siddhant and started scraping for links
+    -Face the problems of recognizing important links
+    -To solve the problem removed special characters from the wiki link
+    -Then added more filetrs to the wikipedia link
+    -Read the structure of the Wikipedia page to understand the links required
+    -Made a very basic UI and score  system
+    -Discussed wats to optimize the game and ways to store the scraped links
+
+## November 13,2020
+    - Read the doucmentation and worked with the python library Wiki dump reader for the backend of the game
+
+## November 15, 2020
+    -Added the program to add links to the database
+    -Downloaded wikipedia dump files and parsed data from them
