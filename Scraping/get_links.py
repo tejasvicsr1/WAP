@@ -76,8 +76,8 @@ def format_link_to_name(link):
 
 
 
-init_link = '/wiki/India'
-finish_link = '/wiki/Deadmau5'
+init_link = '/wiki/Algorithm'
+finish_link = '/wiki/India'
 new_link = init_link
 score = 0
 
@@ -97,6 +97,8 @@ while 1:
 
     print()
     chosen = int(input("Choose a link (Enter number): "))
+    if chosen == -1:
+        break
     new_link = links[chosen] 
 
 print("Congrats! you reached your destination in " + str(score) + " Clicks")
@@ -119,7 +121,8 @@ while 1:
     cur_node, dist = queue[0]
     queue.pop(0)
 
-    print("Current link: "+node_mapper[cur_node])
+    tabs = '\t'*dist
+    print(tabs + "Current link: "+node_mapper[cur_node])
 
     if node_mapper[cur_node] == finish_link:
         print(dist)
