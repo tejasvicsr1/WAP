@@ -45,3 +45,7 @@
 
 ## November 13,2020
     - Read the doucmentation and worked with the python library Wiki dump reader for the backend of the game
+
+## November 15, 2020
+    -Added the program to add links to the database
+    -Downloaded wikipedia dump files and parsed data from them
