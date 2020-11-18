@@ -12,14 +12,18 @@ def connect():
 	global cur
 	cur = con.cursor()
 
-def add_links(link,to_add_link): # Arguents (Name of the Link, Array of the Links in the wiki page of that link)
-	query = "CREATE TABLE IF NOT EXISTS %s(LinkName VARCHAR(256))" % (link)
+def return_link(link):
+	connect()
+	query = """SELECT * FROM `%s`""" % (link)
 	cur.execute(query)
-	for linkname in to_add_link:
-		query = """INSERT INTO `%s` VALUES("%s")""" % (link,linkname)
-		print(query)
-		cur.execute(query)
+	dict = {}
+	dict = cur.fetchall()
+	connected_links = []
+	for link_name in dict:
+		connected_links.append(link_name['LinkName'])
+	return connected_links
+
+return_link("Aman")
 
 
-connect()
-add_links("Siddhant",["Genius","Sucker"])
+

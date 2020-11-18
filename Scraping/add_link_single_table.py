@@ -4,6 +4,7 @@ import pymysql.cursors
 def connect():
 	username = "root"
 	password = "blahblah"
+	global con
 	con = pymysql.connect(host='localhost',
 	                              user=username,
 	                              password=password,
@@ -12,14 +13,13 @@ def connect():
 	global cur
 	cur = con.cursor()
 
-def add_links(link,to_add_link): # Arguents (Name of the Link, Array of the Links in the wiki page of that link)
-	query = "CREATE TABLE IF NOT EXISTS %s(LinkName VARCHAR(256))" % (link)
+def add_link(link,to_add_link):
+	connect()
+	query = "CREATE TABLE IF NOT EXISTS AllLinks(LinkName VARCHAR(1024),ConnectedLink VARCHAR(1024))"
 	cur.execute(query)
 	for linkname in to_add_link:
-		query = """INSERT INTO `%s` VALUES("%s")""" % (link,linkname)
-		print(query)
+		query = """INSERT INTO AllLinks VALUES("%s","%s")""" % (link,linkname)
 		cur.execute(query)
+		con.commit()
 
-
-connect()
-add_links("Siddhant",["Genius","Sucker"])
+add_link("Aman",['Genius','Best'])
