@@ -16,7 +16,8 @@ def add_links(link,to_add_link): # Arguents (Name of the Link, Array of the Link
 	query = "CREATE TABLE IF NOT EXISTS %s(LinkName VARCHAR(256))" % (link)
 	cur.execute(query)
 	for linkname in to_add_link:
-		query = "INSERT INTO %s VALUES('%s')" % (link,linkname)
+		query = """INSERT INTO `%s` VALUES("%s")""" % (link,linkname)
+		print(query)
 		cur.execute(query)
 
 
