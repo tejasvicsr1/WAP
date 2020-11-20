@@ -4,6 +4,22 @@ from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 import pickle
 
+import pymysql
+import pymysql.cursors
+
+def connect():
+	username = "root"
+	password = "aad"
+	global con
+	con = pymysql.connect(host='localhost',
+								  port=3306,
+	                              user=username,
+	                              password=password,
+	                              db='Links',
+	                              cursorclass=pymysql.cursors.DictCursor)
+	global cur
+	cur = con.cursor()
+
 session = requests.Session()
 retry = Retry(connect=3, backoff_factor=0.5)
 adapter = HTTPAdapter(max_retries=retry)
@@ -74,6 +90,15 @@ def format_link_to_name(link):
     return name
 
 
+connect()
+
+# cur.execute("SELECT * from Czechs;")
+cur.execute("DROP DATABASE Links;")
+
+tables = cur.fetchall()
+for x in tables:
+    print(x)
+
 
 
 init_link = '/wiki/Algorithm'
@@ -114,6 +139,7 @@ link_mapper = {
 node_mapper = {
     1: init_link,
 }
+
 
 num = 2
 queue = [(1, 0)]
