@@ -78,3 +78,28 @@
 1. Finished Django Course.
 
 #### TOTAL TIME = 4 hours
+&nbsp;
+
+### November 10, 2020
+1. Decided to change the course of the project.
+2. Started working with the scraping team to extract more articles.
+
+#### TOTAL TIME = 4 hours
+&nbsp;
+
+### November 11, 2020
+1. Added some more starter code to the project.
+2. Helped the frontend team with some figma prototyping.
+
+#### TOTAL TIME = 4 hours
+&nbsp;
+
+### November 12, 2020
+1. Wrote a function for calling an article from the database.
+2. Testing of the function.
+
+#### TOTAL TIME = 6 hours
+&nbsp;
+
+### November 13, 2020
+1. Helped with the function that helps in going from 
