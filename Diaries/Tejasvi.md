@@ -1,7 +1,5 @@
 ## Diary for the Project
 
-&nbsp;
-
 ### October 1, 2020
 
 1. I started off by initialising the GitHub repository. I also added some basic references like the proposal to it.
@@ -14,7 +12,6 @@
 4. Discussions about algorithm led to a question on domain restriction.
 
 #### TOTAL TIME = 2 hours
-&nbsp;
 
 ### October 5, 2020
 
@@ -24,7 +21,6 @@
 4. Author asked to mail him, will do so and ask how to fix/use it for our application. 
 
 #### TOTAL TIME = 2 hours
-&nbsp;
 
 ### October 18, 2020
 
@@ -35,7 +31,6 @@
 5. Assigned the creation of the figma prototype.
 
 #### TOTAL TIME = 2 hours
-&nbsp;
 
 ### October 19, 2020
 
@@ -46,14 +41,12 @@
 5. Did 20% of the video and tried playing with the functionalities.
 
 #### TOTAL TIME = 4 hours
-&nbsp;
 
 ### October 20, 2020
 
 1. Continued learning Django.
 
 #### TOTAL TIME = 3 hours
-&nbsp;
 
 ### October 21, 2020
 
@@ -61,7 +54,6 @@
 2. Will add the base code soon.
 
 #### TOTAL TIME = 3 hours
-&nbsp;
 
 ### October 24, 2020
 
@@ -71,35 +63,30 @@
 4. Had a meet afterwards to discuss new plans.
 
 #### TOTAL TIME = 5 hours
-&nbsp;
 
 ### October 29, 2020
 
 1. Finished Django Course.
 
 #### TOTAL TIME = 4 hours
-&nbsp;
 
 ### November 10, 2020
 1. Decided to change the course of the project.
 2. Started working with the scraping team to extract more articles.
 
 #### TOTAL TIME = 4 hours
-&nbsp;
 
 ### November 11, 2020
 1. Added some more starter code to the project.
 2. Helped the frontend team with some figma prototyping.
 
 #### TOTAL TIME = 4 hours
-&nbsp;
 
 ### November 12, 2020
 1. Wrote a function for calling an article from the database.
 2. Testing of the function.
 
 #### TOTAL TIME = 6 hours
-&nbsp;
 
 ### November 13, 2020
 1. Helped with the function that helps in going from 
