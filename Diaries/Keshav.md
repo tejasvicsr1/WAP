@@ -28,9 +28,9 @@
 
 1. Furhter practiced bootstrap implementations
 
-### October 18, 2020
-
 &nbsp;
+
+### October 18, 2020
 
 1. Learnt how to use the basics of Figma
 2. Made the mock up for the landing page of the website on Figma
@@ -48,3 +48,76 @@
 
 1. Further improved the website protoype
 2. Found bugs and fixed issues in the mock game
+
+&nbsp;
+
+### October 24, 2020
+
+&nbsp;
+
+1. Faced issue in recognizing important links
+2. Sloved the problem by removing special characters from the link
+3. Then added more filetrs to the wikipedia link
+4. Read the structure of the Wikipedia page to understand the links required
+5. Made a very basic UI and score system
+6. Discussed ways to optimize the game and ways to store the scraped links
+
+&nbsp;
+
+### November 02, 2020
+
+1. None of the pre-existing solutions were good enough for our use
+2. Started working with the scraping team to extract more articles.
+3. Realised that we dont need sign In/up pages so removed those
+
+&nbsp;
+
+### November 10, 2020
+
+1. Decided to change the course of the project.
+2. Started working with the scraping team to extract more articles.
+3. Realised that we dont need sign In/up pages so removed those
+4. Started working on a new website
+
+&nbsp;
+
+### November 15, 2020
+
+1. Added the program to add links to the database
+2. Downloaded wikipedia dump files and parsed data from them
+3. Made the landing page for the new website and made figma mockups for the others
+
+&nbsp;
+
+### November 18, 2020
+
+1. Made the other pages for the website
+2. Had a meet with the team to decide if the website is good enough
+3. Made some design channges and will work on them now
+
+&nbsp;
+
+### November 20, 2020
+
+1. Completed the website and linked the sites with backend
+
+&nbsp;
+
+### November 22, 2020
+
+1. Made the presentation
+2. Had a run thtough of the presentations.
+4. Last minute code fixes.
+5. Had our evaluation with the professor
+
+&nbsp;
+
+## WHAT I LEARNT
+    - Bootstrap
+    - SQL
+    - Fullstack web development
+    - Django
+    - Dealing with large amounts of data.
+    - Learnt how to scrape the web for information and handling the resultant files.
+    - Learnt how to use a virtual environment
+    - Improved my other web development skills, python skills, and dealing with XML files.
